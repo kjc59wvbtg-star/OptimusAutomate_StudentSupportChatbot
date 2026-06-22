@@ -63,7 +63,7 @@ The chatbot can answer questions related to:
 
 ### Chat Interface
 
-[Chatbot Demo](chatbot_demo.png)
+![Chatbot Demo](chatbot_demo.png)
 
 ---
 
@@ -73,7 +73,6 @@ The chatbot can answer questions related to:
 app.py
 intents.json
 requirements.txt
-chatbot_demo.png
 README.md
 ```
 
