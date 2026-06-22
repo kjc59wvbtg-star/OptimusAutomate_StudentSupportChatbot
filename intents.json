@@ -1,0 +1,135 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Good morning",
+        "Good afternoon"
+      ],
+      "responses": [
+        "Hello! How can I help you today?",
+        "Hi there! What would you like to know?"
+      ]
+    },
+
+    {
+      "tag": "courses",
+      "patterns": [
+        "What courses do you offer",
+        "Available courses",
+        "Tell me about courses",
+        "Courses",
+        "Programs available"
+      ],
+      "responses": [
+        "We offer AI, Data Science, Machine Learning, Web Development, and Cloud Computing courses."
+      ]
+    },
+
+    {
+      "tag": "fees",
+      "patterns": [
+        "What are the fees",
+        "Fee structure",
+        "How much does it cost",
+        "Course fees"
+      ],
+      "responses": [
+        "Please contact the admissions office for the latest fee structure and scholarship information."
+      ]
+    },
+
+    {
+      "tag": "duration",
+      "patterns": [
+        "Course duration",
+        "How long is the course",
+        "Duration",
+        "How many months"
+      ],
+      "responses": [
+        "Most courses range from 3 to 6 months depending on the program."
+      ]
+    },
+
+    {
+      "tag": "admission",
+      "patterns": [
+        "How can I apply",
+        "Admission process",
+        "How to enroll",
+        "Admission requirements"
+      ],
+      "responses": [
+        "You can apply online through our admissions portal and submit the required academic documents."
+      ]
+    },
+
+    {
+      "tag": "placement",
+      "patterns": [
+        "Do you provide placements",
+        "Placement support",
+        "Jobs after course",
+        "Career support"
+      ],
+      "responses": [
+        "Yes, we provide placement assistance, resume reviews, interview preparation, and career guidance."
+      ]
+    },
+
+    {
+      "tag": "scholarship",
+      "patterns": [
+        "Do you offer scholarships",
+        "Scholarship",
+        "Financial aid"
+      ],
+      "responses": [
+        "Yes, eligible students may apply for scholarships and financial assistance programs."
+      ]
+    },
+
+    {
+      "tag": "contact",
+      "patterns": [
+        "Contact information",
+        "How can I contact you",
+        "Phone number",
+        "Email address"
+      ],
+      "responses": [
+        "You can contact us at support@aistudent.com or call +1234567890."
+      ]
+    },
+
+    {
+      "tag": "location",
+      "patterns": [
+        "Where are you located",
+        "Campus location",
+        "Address"
+      ],
+      "responses": [
+        "Our main campus is located in the city center and detailed directions are available on our website."
+      ]
+    },
+
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "Goodbye",
+        "See you",
+        "Thank you"
+      ],
+      "responses": [
+        "Goodbye! Have a great day.",
+        "Thank you for chatting with us. Best wishes!"
+      ]
+    }
+  ]
+}
