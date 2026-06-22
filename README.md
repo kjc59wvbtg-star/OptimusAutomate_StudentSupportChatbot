@@ -63,7 +63,7 @@ The chatbot can answer questions related to:
 
 ### Chat Interface
 
-![Chatbot Demo](chatbot_demo.png)
+[Chatbot Demo](chatbot_demo.png)
 
 ---
 
