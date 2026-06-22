@@ -71,6 +71,7 @@ The chatbot can answer questions related to:
 
 ```
 app.py
+chatbot_demo.png
 intents.json
 requirements.txt
 README.md
