@@ -1,5 +1,5 @@
 # OptimusAutomate_StudentSupportChatbot
-A# 🤖 AI Student Support Chatbot
+# 🤖 AI Student Support Chatbot
 
 A rule-based AI Student Support Chatbot built using **Python** and **Streamlit**. The chatbot answers frequently asked questions related to student services such as courses, fees, admissions, placements, scholarships, and contact information using intent recognition and context tracking.
 
